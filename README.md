@@ -6,9 +6,9 @@ I'm a highly motivated and creative student currently working toward a career in
 - **Currently Studying:** T-Level Digital Production, Design & Development at Derby College
 - **Work Experience:**
 
-  *Rolls-Royce:* Software Development intern at Rolls-Royce, gaining hands-on experience in SQL, JavaScript, HTML, CSS, and Django for full-stack application development.
+  *Rolls-Royce:* Software Development work placement at Rolls-Royce, gaining hands-on experience in SQL, JavaScript, HTML, CSS, and Django for full-stack application development.
 
-  *Derby Audi - Sytner:* Work experience across all roles, from customer service and business management to vehicle service. I embraced every position, learning the importance of teamwork, adaptability, and leaving a positive impression on both colleagues and clients.
+  *Derby Audi - Sytner:* Work placement across all roles, from customer service and business management to vehicle service. I embraced every position, learning the importance of teamwork, adaptability, and leaving a positive impression on both colleagues and clients.
   
 - **Volunteering:**
 
